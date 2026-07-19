@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I began my coding journey in college when I graduated as a game developer.
-
-A few years later I realized that my passion truly lied in frontend development.
+I began my software development journey in college, where I graduated with a focus in game development. A few years later, I discovered that my true passion lies in frontend development, where I enjoy creating intuitive and engaging user experiences.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [alexandretg99@gmail.com](mailto:alexandretg99@gmail.com)
