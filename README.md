@@ -5,8 +5,8 @@ Frontend Developer
 ------------------
 
 I began my software development journey in college, where I graduated with a focus in game development. </br>
-A few years later, I discovered that my true passion lies in frontend development, where I enjoy creating </br>
-intuitive and engaging user experiences.
+I quickly discovered that my true passion lies in frontend development, where I enjoy creating intuitive </br>
+and engaging user experiences.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [alexandretg99@gmail.com](mailto:alexandretg99@gmail.com)
