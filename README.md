@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I began my software development journey in college, where I earned a dual degree: a B.S. in Computer Science with a focus on game development</br> 
-and a B.A. in Art & Design: Games and Playable Media. I soon discovered that my passion lies in frontend development, where I combine creativity</br> 
-and technical problem-solving to build modern digital experiences.
+I began my software development journey in college, where I earned a dual degree: a B.S. in Computer Science with a focus on game</br> 
+development and a B.A. in Art & Design: Games and Playable Media. I soon discovered that my passion lies in frontend development,</br> 
+where I combine creativity and technical problem-solving to build modern digital experiences.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [alexandretg99@gmail.com](mailto:alexandretg99@gmail.com)
