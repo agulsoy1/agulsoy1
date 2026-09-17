@@ -32,11 +32,15 @@ problem-solving to build intuitive digital user experiences.
 ### Socials
 
 <p align="left">
-
-<a href="https://www.github.com/agulsoy1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </a>
-
-<a href="https://www.linkedin.com/in/alexandre-turgut-gulsoy-1063b62c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </a>
-
-<a href="https://discord.com/users/gulli10_04107" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </a>
-
+  <a href="https://www.github.com/agulsoy1" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+  </a>
+  |
+  <a href="https://www.linkedin.com/in/alexandre-turgut-gulsoy-1063b62c/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  |
+  <a href="https://discord.com/users/gulli10_04107" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
+  </a>
 </p>
