@@ -9,7 +9,7 @@ development and a B.A. in Art & Design: Games and Playable Media. I soon discove
 where I combine creativity and technical problem-solving to build modern digital experiences.
 
 * 🌍  I'm based in Los Angeles
-* 🌐  Portfolio: alexgulsoy.dev
+* 🌐  Portfolio: <a href="https://www.alexgulsoy.dev/">alexgulsoy.dev</a>
 * ✉️  You can contact me at [alexandretg99@gmail.com](mailto:alexandretg99@gmail.com)
 * 🧠  I'm currently learning how to implement AI tools into my websites
 
