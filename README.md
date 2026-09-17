@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I began my software development journey in college, where I earned a dual degree: a B.S. in Computer Science with a focus on game development<//br> 
+I began my software development journey in college, where I earned a dual degree: a B.S. in Computer Science with a focus on game development</br> 
 and a B.A. in Art & Design: Games and Playable Media. I soon discovered that my passion lies in frontend development, where I combine creativity</br> 
 and technical problem-solving to build modern digital experiences.
 
